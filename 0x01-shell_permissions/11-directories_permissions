@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 763 *
+chmod -R 777 *
