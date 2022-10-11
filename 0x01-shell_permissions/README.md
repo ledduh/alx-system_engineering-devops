@@ -1,0 +1,1 @@
+Commands continuous exercise
